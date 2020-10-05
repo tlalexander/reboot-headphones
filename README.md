@@ -41,13 +41,13 @@ out my website at http://reboot.love and join the discussion!
 Parts required
 ===
 
-Find the STL files zipped up in the 3d_models folder.  
-Print one headband on an FFF/FDM style printer.  
-Print one head pad, then two of everything else using an MSLA or other resin  
-based printer.  
-Except do not print the "Foam Ear Pad".  
-I found that the "Speaker Casing" part prints nicely in a fully vertical  
-orientation. I was actually able to print two side by side.  
+* Find the STL files zipped up in the 3d_models folder.  
+* Print one headband on an FFF/FDM style printer.  
+* Print one head pad, then two of everything else using an MSLA or other resin  
+* based printer.  
+* Except do not print the "Foam Ear Pad".  
+* I found that the "Speaker Casing" part prints nicely in a fully vertical  
+* orientation. I was actually able to print two side by side.  
 
 Be advised: The headband is not adjustable. You will likely need to log in to  
 onshape and change the headband dimensions, then export that part as STL and  
@@ -55,7 +55,7 @@ print your updated version. If you want a cool project, experiment with
 designing an adjustable headband and please let me know when you've done it!  
 
 I designed these headphones for the following foam earpads.  
-https://www.brainwavzaudio.com/collections/earpads-round-xl/products/headphone-memory-foam-earpads-xl-pu-leather#tab2  
+https://www.brainwavzaudio.com/collections/earpads-round-xl/products/headphone-memory-foam-earpads-xl-pu-leather  
 or:  
 https://www.brainwavzaudio.com/collections/earpads-round-xl/products/headphone-memory-foam-earpads-xl-size-micro-suede  
 see also the product on Amazon US:  
