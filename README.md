@@ -3,6 +3,15 @@ Open Source over the ear headphones designed by Taylor from Reboot.love
 
 CC0 Licensed: Use this information for any purpose. <3
 
+![](images/wide.jpg)
+
+![](images/detail3.jpg)
+
+![](images/detail4.jpg)
+
+Full image album here:
+https://imgur.com/gallery/dxpr4aY
+
 All you need to print the headphones is in this repo. However if you would like
 to edit the files yourself, sign up for a free OnShape account here:
 https://www.onshape.com/products/free
