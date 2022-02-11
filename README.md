@@ -43,11 +43,9 @@ Parts required
 
 * Find the STL files zipped up in the 3d_models folder.  
 * Print one headband on an FFF/FDM style printer.  
-* Print one head pad, then two of everything else using an MSLA or other resin  
-* based printer.  
+* Print one head pad, then two of everything else using an MSLA or other resin based printer.  
 * Except do not print the "Foam Ear Pad".  
-* I found that the "Speaker Casing" part prints nicely in a fully vertical  
-* orientation. I was actually able to print two side by side.  
+* I found that the "Speaker Casing" part prints nicely in a fully vertical orientation. I was actually able to print two side by side.  
 
 Be advised: The headband is not adjustable. You will likely need to log in to  
 onshape and change the headband dimensions, then export that part as STL and  
